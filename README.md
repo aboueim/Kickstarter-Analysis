@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Conducting a series of analysis and visualizations using MicroSoft Excel on a Kickstarter dataset. The dataset includes project-specific data such as its name, blurb, goal, pledged funding, outcome, campain launch date and deadline, category, etc. of multitude of project in different countries, which can be employed to inform new kickstarter projects with how to plan for their fundraising campaigns.
+In this project, we aim at conducting a series of analysis and visualizations using MicroSoft Excel on a Kickstarter projects dataset. The dataset includes project-specific data such as its name, blurb, goal, pledged funding, outcome, campain launch date and deadline, category, etc. of multitude of project in different countries, which can be employed to inform new kickstarter projects with how to plan for their fundraising campaigns.
 
 ### Purpose
 
