@@ -30,7 +30,7 @@ Fortunately, during the entire analysis process I did not encouter major challen
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Overall, theature projects can be considered as reasonably succesful and the number of successful project outweigh the number of failed projects through the year.
+Overall, theatre projects can be considered as reasonably succesful and the number of successful project outweigh the number of failed projects through the year.
 Month May (also June and July to lesser extent) looks an excellent timing for Louise to lauch her campaign (Although the success rate for each month may also be a worthy indicator for chosing the timing of the campaign, given the almost similar number of failed projects for different month, the number of successful projects can be realized as an appropriate indicator in this case).
 
 - What can you conclude about the Outcomes based on Goals?
