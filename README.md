@@ -47,7 +47,7 @@ Although the number of backers is helpful in assessing the viability of the proj
 
 - What are some other possible tables and/or graphs that we could create?
 
-There were plenty of other options to use to visualize our results. For example:
+There were plenty of other options to use to visualize our results separately or in combination. For example:
 
 Pie charts could be used to better display the share of numberical values (for example, the percentage of successful/failed/canceled/live projects).
 
