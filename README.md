@@ -40,13 +40,19 @@ Given the results, setting goals less than 15000 and between 35000 and 44999 wou
 - What are some limitations of this dataset?
 
 The initial dataset did not distinguish between categories and subcategories, which was required for further scrutiny.
+
 Another issue was the currency types and values. In this dataset, there is no distinction between currencies (for example, USD vs GBP). For a more realistic comparison, an estimation of currency conversion rates should be added to make necessary adjustments for their relative values.
+
 Although the number of backers is helpful in assessing the viability of the projects, the within-backers variations (gender, wealth, nationality, job, etc.) could also help further our analysis.
 
 - What are some other possible tables and/or graphs that we could create?
 
 There were plenty of other options to use to visualize our results. For example:
+
 Pie charts could be used to better display the share of numberical values (for example, the percentage of successful/failed/canceled/live projects).
+
 One could use histograms to examine the distribusion of numerical variables (e.g., goals or pledged) for potential statistical tests (e.g., correalation, regression, etc.).
+
 Bar charts could be used for comparisons between groups of categorical variables such as count of outcomes (e.g., successful vs failed) or country (e.g., US vs GB).
+
 Scatterplots could also be used to identify relationships between numerical variables (for example, pledged and campaign length).
